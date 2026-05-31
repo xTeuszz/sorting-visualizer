@@ -78,6 +78,9 @@ python main.py
 ```
 sorting-visualizer/
 ├── main.py        # Código principal (algoritmos + interface)
+├── algorithms.py  # algoritmos utilizados
+├── app.py         # interface do aplicativo
+├── config.py      # configurações básicas
 ├── README.md      # Documentação
 └── .gitignore     # Arquivos ignorados pelo Git
 ```
