@@ -106,4 +106,4 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais detalhes.
 
 ---
 
-Feito com 🚀 por [Mateus](https://github.com/seu-usuario)
+Feito com 🚀 por [Mateus](https://github.com/xTeuszz)
